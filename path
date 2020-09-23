@@ -1,0 +1,10 @@
+
+Pinging 193.10.10.140 with 32 bytes of data:
+
+Reply from 193.10.10.140: bytes=32 time=2ms TTL=128
+Reply from 193.10.10.140: bytes=32 time<10ms TTL=128
+
+Ping statistics for 193.10.10.140:
+    Packets: Sent = 2, Received = 2, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum =  2ms, Average =  1ms
